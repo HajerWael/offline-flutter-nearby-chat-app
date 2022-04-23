@@ -16,7 +16,8 @@ You can find more Info in detailed about how is working
 https://developers.google.com/nearby/connections/overview
 
 ### Notes
-Regarding yo android, you need to test it on real devices, unlike IOS can be tested on iPhone simulators.
+1) Regarding to android, you need real devices for testing, unlike IOS can be done using simulators.
+2) Dont forget to enable nearby which will enable (wifi,bluetooth and location) before start.
 
 ## Screenshots of Testing
 ### Android to Android
