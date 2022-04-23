@@ -17,7 +17,8 @@ https://developers.google.com/nearby/connections/overview
 
 ### Notes
 1) Regarding to android, you need real devices for testing, unlike IOS can be done using simulators.
-2) Dont forget to enable nearby which will enable (wifi,bluetooth and location) before start.
+2) Dont forget to enable nearby which will by default turn on (wifi,bluetooth and location)  before start.
+3) This is the first version that contains the basic features of chat like sending a text message, not attachments or audio voice, It can be improved later on.
 
 ## Screenshots of Testing
 ### Android to Android
